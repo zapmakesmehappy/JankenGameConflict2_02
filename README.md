@@ -1,0 +1,1 @@
+# JankenGameConflict2_02
